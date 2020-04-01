@@ -1,0 +1,18 @@
+{
+  "name": "maratonadev",
+  "version": "1.0.0",
+  "description": "tecla ctrl + u - para ver toda a estrutura html de um site tecla ctrl + b - abre e fecha aba do visual studio code tecla ctrl + k e ctrl + k - comando para formatação da estrutura do html HTML - ESTRUTURA CSS - ESTILO JAVASCRIPT - INTELIGENCIA OBS: sempre usar palavras em inglês para atributos css e javascript OBS: sempre usar semântica para escrever o texto no html",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "nunjucks": "^3.2.0",
+    "pg": "^7.18.1"
+  }
+}
